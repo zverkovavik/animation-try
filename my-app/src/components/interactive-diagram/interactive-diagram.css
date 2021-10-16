@@ -75,8 +75,8 @@ body {
 
 .unit:nth-child(7) {
   stroke: #d341bf;
-  stroke-dasharray: 30 100;
-  stroke-dashoffset: -70;
+  stroke-dasharray: 25 100;
+  stroke-dashoffset: -75;
 } 
 
 .unit:hover {

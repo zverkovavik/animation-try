@@ -5,6 +5,8 @@ React-приложение с различными интерактивными 
 
 1. Сделана по туториалу: https://htmlacademy.ru/blog/boost/tutorial/svg-chart?utm_source=ig&utm_medium=social&utm_campaign=blog911_15102021
 
+1. Сделана по туториалу: https://htmlacademy.ru/blog/boost/tutorial/pure-css-tree
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
